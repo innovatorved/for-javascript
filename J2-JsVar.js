@@ -30,3 +30,6 @@ console.log("un2 : " , un2);
 // -- Null and Undefined both are different
 var nu1 = null;
 console.log("Var is Null : " , nu1);
+
+// Declare as a String Object
+x = new String();
